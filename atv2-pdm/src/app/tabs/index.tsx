@@ -1,9 +1,9 @@
 import { Image } from "expo-image";
-import { Alert, ScrollView, Text, View, Button, Modal, Pressable, TouchableOpacity } from "react-native";
-import { useState } from "react";
 import { LinearGradient } from "expo-linear-gradient";
-import { Card } from "../components/Card";
+import { useState } from "react";
+import { Button, Modal, Pressable, ScrollView, Text, TouchableOpacity, View } from "react-native";
 import { WebView } from "react-native-webview";
+import { Card } from "../../components/Card";
 
 
 export default function Index() {

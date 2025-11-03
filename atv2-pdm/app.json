@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "atv1-base-perfil",
-    "slug": "atv1-base-perfil",
+    "name": "atv2-base-perfil",
+    "slug": "atv2-base-perfil",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "atv1baseperfil",
+    "scheme": "atv2baseperfil",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "splash": {
